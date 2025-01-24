@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-import Navbar from './components/Navbar';
+import Navbar from './components/Navbar&Footer';
+
 
 function App() {
   return (   
@@ -20,6 +21,7 @@ function App() {
           Learn React
         </a>
       </header>
+      
     </div>
   );
 }
